@@ -56,7 +56,6 @@ markers:
       ', id: KR1a0106_krp_000-bkkkrnewl9}
   - {type: line-break, offset: 94, content: '', id: KR1a0106_WYG_000-1b01}
   - {type: indent, offset: 94, content: 　　　　, id: KR1a0106_krp_000-bkkind9}
-  - {type: substitution, offset: 108, original: 説, replacement: 說, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3528}}
   - {type: 'kr:newline', offset: 111, content: '
 
       ', id: KR1a0106_krp_000-bkkkrnewl10}
@@ -101,8 +100,6 @@ markers:
       ', id: KR1a0106_krp_000-bkkkrnewl18}
   - {type: line-break, offset: 230, content: '', id: KR1a0106_WYG_000-2a01}
   - {type: indent, offset: 230, content: 　　　　, id: KR1a0106_krp_000-bkkind17}
-  - {type: substitution, offset: 235, original: 㝠, replacement: 冥, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1024}}
-  - {type: substitution, offset: 241, original: 秘, replacement: 祕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4452}}
   - {type: 'kr:newline', offset: 247, content: '
 
       ', id: KR1a0106_krp_000-bkkkrnewl19}
@@ -152,7 +149,6 @@ markers:
 
       ', id: KR1a0106_krp_000-bkkkrnewl25}
   - {type: line-break, offset: 290, content: '', id: KR1a0106_WYG_000-3a01}
-  - {type: substitution, offset: 294, original: 説, replacement: 說, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3528}}
   - {type: 'kr:newline', offset: 297, content: '
 
       ', id: KR1a0106_krp_000-bkkkrnewl26}
@@ -173,7 +169,6 @@ markers:
 
       ', id: KR1a0106_krp_000-bkkkrnewl30}
   - {type: line-break, offset: 381, content: '', id: KR1a0106_WYG_000-3a06}
-  - {type: substitution, offset: 398, original: 㝠, replacement: 冥, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1024}}
   - {type: 'kr:newline', offset: 402, content: '
 
       ', id: KR1a0106_krp_000-bkkkrnewl31}
@@ -218,7 +213,6 @@ markers:
 
       ', id: KR1a0106_krp_000-bkkkrnewl41}
   - {type: line-break, offset: 591, content: '', id: KR1a0106_WYG_000-3b08}
-  - {type: substitution, offset: 610, original: 説, replacement: 說, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3528}}
   - {type: 'kr:newline', offset: 612, content: '
 
       ', id: KR1a0106_krp_000-bkkkrnewl42}
@@ -227,9 +221,6 @@ markers:
 
       ', id: KR1a0106_krp_000-bkkkrnewl43}
   - {type: line-break, offset: 612, content: '', id: KR1a0106_WYG_000-4a01}
-  - {type: substitution, offset: 614, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0597}}
-  - {type: substitution, offset: 619, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0597}}
-  - {type: substitution, offset: 623, original: 説, replacement: 說, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3528}}
   - {type: 'kr:newline', offset: 633, content: '
 
       ', id: KR1a0106_krp_000-bkkkrnewl44}
@@ -238,4 +229,4 @@ markers:
 
       ', id: KR1a0106_krp_000-bkkkrnewl45}
   back: []
-hash: sha256:6f7e49db8ec237069588eb6b10862f1887c5f37a136f1745ae68079e105252c1
+hash: sha256:384ba59e449abc231ff197117b90219c1a8df6a3815b85843428b9cae391c9c5
